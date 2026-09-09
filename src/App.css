@@ -1,0 +1,22 @@
+/* ============================================================
+   App-level Styles
+   ============================================================ */
+
+.app {
+  min-height: 100vh;
+  position: relative;
+}
+
+/* Section divider — subtle gradient line between sections */
+.section-divider {
+  width: 100%;
+  max-width: var(--max-width);
+  margin: 0 auto;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    var(--border-glass-hover),
+    transparent
+  );
+}
