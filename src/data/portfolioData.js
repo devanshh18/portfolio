@@ -58,10 +58,10 @@ export const skillCategories = [
       "LangGraph",
       "RAG",
       "Prompt Engineering",
-      "Agentic Workflows",
+      // "Agentic Workflows",
       "Pinecone",
       "HuggingFace",
-      "Vector Embeddings",
+      // "Vector Embeddings",
     ],
   },
   {
